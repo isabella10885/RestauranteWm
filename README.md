@@ -10,3 +10,7 @@
 
 ![image](https://github.com/user-attachments/assets/3139ef55-817e-4740-8eb9-f521c6a36f64)
 
+<h1>Cardapio (Andamento)</h1>
+
+![image](https://github.com/user-attachments/assets/2adc4af4-18b4-489f-84fe-e54688f05a98)
+
