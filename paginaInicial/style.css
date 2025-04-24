@@ -13,7 +13,7 @@ body {
     font-family: "Libre Baskerville", serif;
 }
 
-/* ESSA PARTE AQUI CRIA UM FUNDO MAIS ESCUTO EM CIMA DA IMAGEM E FAZ COM QUE PARECA OPACIDADE  */
+/* ESSA PARTE AQUI CRIA UM FUNDO MAIS ESCURO EM CIMA DA IMAGEM E FAZ COM QUE PARECA OPACIDADE  */
 body::before {
     content: '';
     position: fixed;
@@ -86,23 +86,37 @@ body::before {
     background-color: #720b0b;
 }
 
-.bem-vindo {
-    position: relative;
-    left: 50px;
-    color: #ffffff;
-    text-align: center;
-    flex: 1;
-    /* Faz o texto ocupar o espaço central */
-    font-size: 20px;
-    font-family: "Libre Baskerville", serif;
+body {
+.font-family: Arial, sans-serif;
+background-color: #f5f5f5;
+margin: 0;
+padding: 0;
 }
 
-/* .bem-vindo:hover {
-    color: inherit;
-    background: none;
-    text-decoration: none;
-    cursor: default;
-} */
+.quem-somos {
+background-color: #ffffff;
+padding: 60px 40px;
+max-width: 1000px;
+margin: 50px auto;
+box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+border-radius: 8px;
+}
+
+.quem-somos h2 {
+color: #8B0000;
+font-size: 32px;
+margin-bottom: 25px;
+font-weight: bold;
+text-transform: uppercase;
+}
+
+.quem-somos p {
+color: #333;
+font-size: 18px;
+line-height: 1.7;
+margin-bottom: 20px;
+text-align: justify;
+}
 
 
 .whatsapp {
